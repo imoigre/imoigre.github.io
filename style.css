@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Advent+Pro:100);
+html { 
+  background:  url(https://steamuserimages-a.akamaihd.net/ugc/942833979452153495/B7720B00A527731E6DF8203A9600B212DC4BA518/) no-repeat center center fixed; 
+  background-size: cover;
+}
+body {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+  font-size: 9vw;
+  font-weight: 700;
+  font-family: 'Rubik', sans-serif;
+  flex: 1;
+  position: relative;
+  text-align: center;
+  margin: 0;
+  -webkit-text-fill-color: transparent;
+  background-image: url("https://steamuserimages-a.akamaihd.net/ugc/942833979452136111/695A73FCD8446EE5F38C95A64B721E053C29116C/");
+  background-size: cover;
+  -webkit-background-clip: text;
+  background-repeat: no-repeat;
+}
+ 
